@@ -1,0 +1,80 @@
+* { margin: 0; padding: 0 !important;}
+
+li {list-style-type: none;}
+
+hr{ margin: 40px; border: 2px solid rgb(196, 203, 236); border-radius:100%; }
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.col-5{
+    display:block;
+    font-family: 'Oswald', sans-serif;
+    margin-left: -169px;
+    background-color: rgba(19, 8, 116, 0.748);
+    color: rgba(250, 250, 250, 0.926);
+    max-width: 258px;
+}
+
+img{
+    margin-left: 30px;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 63%;
+    border-radius: 100%;
+    max-width: 200px;
+    border: 3px solid rgb(255, 255, 255) ;
+}
+
+h3{
+    font-weight: bold;
+    margin-top: -155px;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+h6{
+    font-weight:bold;
+    margin-top: -10px;
+    font-size: 17px;
+    justify-content: center;
+    display: flex;
+}
+
+.Contato{
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.Pessoais{
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+.Idiomas{
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.col-7{
+    color: rgba(19, 8, 116, 0.748);
+    margin: 60px;
+    font-size: 18px;
+}
+
+h2{
+    font-family: 'Noto Serif', serif;
+    font-size: 29px;
+}
+
+.HABILIDADES{
+    margin-top: 80px;
+}
+
+.COMPETENCIAS{
+    margin-top: 70px;   
+}
